@@ -5,6 +5,10 @@
   <br>
   <b>Currently I am learning:</b>
   <br>
+  MySQL 
+  <br>
+  PHP 
+  <br>
   TypeScript
 </p>
 <p align="center">🎨 
@@ -30,17 +34,27 @@
 <br>
 <p align="center"><b>Coding languages:</b>
   <br>
-  CSS, HTML, JavaScript, Less, PHP & SASS(SCSS).
+  CSS | HTML | JavaScript | Less | SASS(SCSS)
+</p>
+<br>
+<p align="center"><b>CMS/Cloud platforms:</b>
+  <br>
+  Heroku | Strapi | WIX & WordPress
 </p>
 <br>
 <p align="center"><b>Frameworks:</b>
   <br>
-  Next.js and React.js
+  Next.js | React.js
 </p>
 <br>
 <p align="center"><b>Libraries:</b>
   <br>
-  Bootstrap, JQuery & Lodash
+  Bootstrap | JQuery | Lodash
+</p>
+<br>
+<p align="center"><b>Workspaces:</b>
+  <br>
+  Codepen | JS Fiddle | Node.js | VSC
 </p>
 <br>
 <!--
