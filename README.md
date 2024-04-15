@@ -1,6 +1,7 @@
 <h1 align="center">Hi! I’m Monika 👋</h1>
 <p align="center">Currently working as webdesigner intern at Framom agency. I can adapt to different hats from UX/UI design to Front-End WebDevelopment, depending on what you need me to do 🕵🏼‍♀️</p>
-<br>
+<br><br>
+<!--
 <p align="center">📖 
   <br>
   <b>Currently I am learning:</b>
@@ -52,22 +53,7 @@
   Bootstrap | JQuery | Lodash
 </p>
 <br>
-<p align="center"><b>Workspaces:</b>
-  <br>
+<p align="center"><b>Workspaces:</b><br>
   Codepen | JS Fiddle | Node.js | VSC
-</p>
-<br>
-<!--
-**lunadragon06/lunadragon06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</p><br>
 -->
